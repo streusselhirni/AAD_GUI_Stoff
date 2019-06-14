@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nicolashaenni/Education/HF-ICT/GUI/Uebung/Diplomvorbereitung_Pruefung2018_komplett/Aufgabe2/main.cpp
+iostream
+-
+set
+-
+vector
+-
+
