@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_3_4/Aufgabe2/ArrayUtil.h
+
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_3_4/Aufgabe2/main.cpp
+iostream
+-
+random
+-
+ArrayUtil.h
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_3_4/Aufgabe2/ArrayUtil.h
+

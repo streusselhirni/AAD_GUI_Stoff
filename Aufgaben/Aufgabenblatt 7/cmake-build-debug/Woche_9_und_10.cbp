@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Woche_9_und_10"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\Aufgabe1\;CMake Files\Aufgabe2\;CMake Files\Aufgabe3\;CMake Files\Aufgabe4\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 7/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 7/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 7/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Aufgabe1">
+				<Option output="/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 7/cmake-build-debug/Aufgabe1/Aufgabe1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 7/cmake-build-debug/Aufgabe1"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Aufgabe1/Makefile&quot;  VERBOSE=1 Aufgabe1"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Aufgabe1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Aufgabe1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Aufgabe1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Aufgabe1/fast">
+				<Option output="/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 7/cmake-build-debug/Aufgabe1/Aufgabe1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 7/cmake-build-debug/Aufgabe1"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Aufgabe1/Makefile&quot;  VERBOSE=1 Aufgabe1/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Aufgabe1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Aufgabe1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Aufgabe1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Aufgabe2">
+				<Option output="/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 7/cmake-build-debug/Aufgabe2/Aufgabe2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 7/cmake-build-debug/Aufgabe2"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Aufgabe2/Makefile&quot;  VERBOSE=1 Aufgabe2"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Aufgabe2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Aufgabe2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Aufgabe2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Aufgabe2/fast">
+				<Option output="/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 7/cmake-build-debug/Aufgabe2/Aufgabe2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 7/cmake-build-debug/Aufgabe2"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Aufgabe2/Makefile&quot;  VERBOSE=1 Aufgabe2/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Aufgabe2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Aufgabe2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Aufgabe2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Aufgabe3">
+				<Option output="/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 7/cmake-build-debug/Aufgabe3/Aufgabe3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 7/cmake-build-debug/Aufgabe3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Aufgabe3/Makefile&quot;  VERBOSE=1 Aufgabe3"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Aufgabe3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Aufgabe3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Aufgabe3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Aufgabe3/fast">
+				<Option output="/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 7/cmake-build-debug/Aufgabe3/Aufgabe3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 7/cmake-build-debug/Aufgabe3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Aufgabe3/Makefile&quot;  VERBOSE=1 Aufgabe3/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Aufgabe3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Aufgabe3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Aufgabe3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Aufgabe4">
+				<Option output="/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 7/cmake-build-debug/Aufgabe4/Aufgabe4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 7/cmake-build-debug/Aufgabe4"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Aufgabe4/Makefile&quot;  VERBOSE=1 Aufgabe4"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Aufgabe4/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Aufgabe4/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Aufgabe4/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Aufgabe4/fast">
+				<Option output="/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 7/cmake-build-debug/Aufgabe4/Aufgabe4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 7/cmake-build-debug/Aufgabe4"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Aufgabe4/Makefile&quot;  VERBOSE=1 Aufgabe4/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Aufgabe4/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Aufgabe4/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt\ 7/cmake-build-debug/Aufgabe4/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 7/Aufgabe1/CalcUtil.cpp">
+			<Option target="Aufgabe1"/>
+		</Unit>
+		<Unit filename="/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 7/Aufgabe1/CalcUtil.h">
+			<Option target="Aufgabe1"/>
+		</Unit>
+		<Unit filename="/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 7/Aufgabe1/main.cpp">
+			<Option target="Aufgabe1"/>
+		</Unit>
+		<Unit filename="/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 7/Aufgabe2/main.cpp">
+			<Option target="Aufgabe2"/>
+		</Unit>
+		<Unit filename="/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 7/Aufgabe3/Graph.cpp">
+			<Option target="Aufgabe3"/>
+		</Unit>
+		<Unit filename="/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 7/Aufgabe3/Graph.h">
+			<Option target="Aufgabe3"/>
+		</Unit>
+		<Unit filename="/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 7/Aufgabe3/main.cpp">
+			<Option target="Aufgabe3"/>
+		</Unit>
+		<Unit filename="/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 7/Aufgabe4/main.cpp">
+			<Option target="Aufgabe4"/>
+		</Unit>
+		<Unit filename="/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 7/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 7/Aufgabe1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Aufgabe1\"/>
+		</Unit>
+		<Unit filename="/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 7/Aufgabe2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Aufgabe2\"/>
+		</Unit>
+		<Unit filename="/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 7/Aufgabe3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Aufgabe3\"/>
+		</Unit>
+		<Unit filename="/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 7/Aufgabe4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Aufgabe4\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

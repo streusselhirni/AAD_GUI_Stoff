@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nicolashaenni/Education/HF-ICT/AAD/Unterricht/W15/strmatch.cpp
+iostream
+-
+string
+-
+sstream
+-
+fstream
+-
+ctime
+-
+cstdlib
+-
+map
+-
+

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_7_und_8/Aufgabe2/ArrayUtil.h
+vector
+-
+Result.h
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_7_und_8/Aufgabe2/Result.h
+
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_7_und_8/Aufgabe2/Result.h
+
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_7_und_8/Aufgabe2/main.cpp
+iostream
+-
+vector
+-
+Result.h
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_7_und_8/Aufgabe2/Result.h
+ArrayUtil.h
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_7_und_8/Aufgabe2/ArrayUtil.h
+

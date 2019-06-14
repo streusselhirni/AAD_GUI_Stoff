@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 6/Aufgabe2/main.cpp
+iostream
+-
+climits
+-
+map
+-
+iomanip
+-
+../graph.h
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 6/graph.h
+
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 6/graph.h
+vector
+-
+sstream
+-
+

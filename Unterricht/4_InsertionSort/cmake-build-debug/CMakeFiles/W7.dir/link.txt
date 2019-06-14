@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/W7.dir/main.cpp.o CMakeFiles/W7.dir/InsertionSort.cpp.o  -o W7 

@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nicolashaenni/Education/HF-ICT/AAD/W8/InsertionSort.h
+Sort.h
+/Users/nicolashaenni/Education/HF-ICT/AAD/W8/Sort.h
+
+/Users/nicolashaenni/Education/HF-ICT/AAD/W8/MergeSort.h
+Sort.h
+/Users/nicolashaenni/Education/HF-ICT/AAD/W8/Sort.h
+
+/Users/nicolashaenni/Education/HF-ICT/AAD/W8/QuickHerzig.h
+Sort.h
+/Users/nicolashaenni/Education/HF-ICT/AAD/W8/Sort.h
+
+/Users/nicolashaenni/Education/HF-ICT/AAD/W8/QuickSort.h
+Sort.h
+/Users/nicolashaenni/Education/HF-ICT/AAD/W8/Sort.h
+
+/Users/nicolashaenni/Education/HF-ICT/AAD/W8/Sort.h
+vector
+-
+
+/Users/nicolashaenni/Education/HF-ICT/AAD/W8/main.cpp
+iostream
+-
+vector
+-
+random
+-
+InsertionSort.h
+/Users/nicolashaenni/Education/HF-ICT/AAD/W8/InsertionSort.h
+QuickSort.h
+/Users/nicolashaenni/Education/HF-ICT/AAD/W8/QuickSort.h
+MergeSort.h
+/Users/nicolashaenni/Education/HF-ICT/AAD/W8/MergeSort.h
+QuickHerzig.h
+/Users/nicolashaenni/Education/HF-ICT/AAD/W8/QuickHerzig.h
+

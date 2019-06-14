@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nicolashaenni/Education/HF-ICT/AAD/Unterricht/Woche16_Testing/src/Utils.h
+
+/Users/nicolashaenni/Education/HF-ICT/AAD/Unterricht/Woche16_Testing/test_boost/Utils.cpp
+../src/Utils.h
+/Users/nicolashaenni/Education/HF-ICT/AAD/Unterricht/Woche16_Testing/src/Utils.h
+boost/test/unit_test.hpp
+-
+

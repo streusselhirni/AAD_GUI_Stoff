@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_5_und_6/Aufgabe1/main.cpp
+iostream
+-
+
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_5_und_6/runall.cpp
+iostream
+-
+Aufgabe1/main.cpp
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_5_und_6/Aufgabe1/main.cpp
+

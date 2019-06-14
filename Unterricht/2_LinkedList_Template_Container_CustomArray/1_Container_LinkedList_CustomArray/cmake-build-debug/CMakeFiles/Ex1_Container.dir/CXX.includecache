@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/./Array.h
+Container.h
+/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/./Container.h
+
+/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/./Container.h
+
+/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/./Element.h
+iostream
+-
+
+/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/./List.h
+iostream
+-
+Container.h
+/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/./Container.h
+Element.h
+/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/./Element.h
+
+/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/main.cpp
+iostream
+-
+./Array.h
+/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/./Array.h
+./List.h
+/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/./List.h
+

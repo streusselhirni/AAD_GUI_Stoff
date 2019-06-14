@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Aufgabe3_SuffixTree.dir/main.cpp.o CMakeFiles/Aufgabe3_SuffixTree.dir/StringUtilSuffix.cpp.o  -o Aufgabe3_SuffixTree 

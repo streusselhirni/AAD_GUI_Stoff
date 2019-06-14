@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_3_und_4/Aufgabe1/Trader.cpp
+iostream
+-
+climits
+-
+Trader.h
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_3_und_4/Aufgabe1/Trader.h
+
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_3_und_4/Aufgabe1/Trader.h
+string
+-
+
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_3_und_4/Aufgabe1/main.cpp
+iostream
+-
+random
+-
+iomanip
+-
+ctime
+-
+Trader.h
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_3_und_4/Aufgabe1/Trader.h
+

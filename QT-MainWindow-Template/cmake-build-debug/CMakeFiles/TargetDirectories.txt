@@ -1,0 +1,4 @@
+/Users/nicolashaenni/Education/HF-ICT/GUI/Unterricht/W9/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nicolashaenni/Education/HF-ICT/GUI/Unterricht/W9/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nicolashaenni/Education/HF-ICT/GUI/Unterricht/W9/cmake-build-debug/CMakeFiles/Woche9.dir
+/Users/nicolashaenni/Education/HF-ICT/GUI/Unterricht/W9/cmake-build-debug/CMakeFiles/Woche9_autogen.dir

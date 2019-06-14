@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nicolashaenni/Education/HF-ICT/AAD/Unterricht/W11/MaxHeap.h
+iostream
+-
+
+/Users/nicolashaenni/Education/HF-ICT/AAD/Unterricht/W11/ProcessList.h
+list
+-
+
+/Users/nicolashaenni/Education/HF-ICT/AAD/Unterricht/W11/main.cpp
+iostream
+-
+random
+-
+ProcessList.h
+/Users/nicolashaenni/Education/HF-ICT/AAD/Unterricht/W11/ProcessList.h
+MaxHeap.h
+/Users/nicolashaenni/Education/HF-ICT/AAD/Unterricht/W11/MaxHeap.h
+

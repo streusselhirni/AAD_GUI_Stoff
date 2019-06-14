@@ -1,0 +1,14 @@
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_5_und_6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_5_und_6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_5_und_6/cmake-build-debug/Aufgabe1/CMakeFiles/rebuild_cache.dir
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_5_und_6/cmake-build-debug/Aufgabe1/CMakeFiles/edit_cache.dir
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_5_und_6/cmake-build-debug/Aufgabe1/CMakeFiles/Aufgabe1.dir
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_5_und_6/cmake-build-debug/Aufgabe2/CMakeFiles/rebuild_cache.dir
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_5_und_6/cmake-build-debug/Aufgabe2/CMakeFiles/edit_cache.dir
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_5_und_6/cmake-build-debug/Aufgabe2/CMakeFiles/Aufgabe2.dir
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_5_und_6/cmake-build-debug/Aufgabe3/CMakeFiles/rebuild_cache.dir
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_5_und_6/cmake-build-debug/Aufgabe3/CMakeFiles/edit_cache.dir
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_5_und_6/cmake-build-debug/Aufgabe3/CMakeFiles/Aufgabe3.dir
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_5_und_6/cmake-build-debug/SuffixTree/CMakeFiles/rebuild_cache.dir
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_5_und_6/cmake-build-debug/SuffixTree/CMakeFiles/edit_cache.dir
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_5_und_6/cmake-build-debug/SuffixTree/CMakeFiles/SuffixTree.dir

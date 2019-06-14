@@ -1,0 +1,4 @@
+/Users/nicolashaenni/Education/HF-ICT/AAD/Unterricht/Woche16_Testing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nicolashaenni/Education/HF-ICT/AAD/Unterricht/Woche16_Testing/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nicolashaenni/Education/HF-ICT/AAD/Unterricht/Woche16_Testing/cmake-build-debug/CMakeFiles/Test.dir
+/Users/nicolashaenni/Education/HF-ICT/AAD/Unterricht/Woche16_Testing/cmake-build-debug/CMakeFiles/Woche16_Testing.dir

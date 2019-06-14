@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_5_und_6/Aufgabe3_SuffixTree/StringUtilSuffix.cpp
+StringUtilSuffix.h
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_5_und_6/Aufgabe3_SuffixTree/StringUtilSuffix.h
+
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_5_und_6/Aufgabe3_SuffixTree/StringUtilSuffix.h
+string
+-
+
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_5_und_6/Aufgabe3_SuffixTree/main.cpp
+iostream
+-
+string
+-
+StringUtilSuffix.h
+/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Woche_5_und_6/Aufgabe3_SuffixTree/StringUtilSuffix.h
+

@@ -1,0 +1,4 @@
+"/Users/nicolashaenni/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/183.4886.39/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 7"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/nicolashaenni/Education/HF-ICT/AAD/Aufgaben/Aufgabenblatt 7/cmake-build-debug

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Ex1_Container"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ex1_Container">
+				<Option output="/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/cmake-build-debug/Ex1_Container" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ex1_Container"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ex1_Container/fast">
+				<Option output="/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/cmake-build-debug/Ex1_Container" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ex1_Container/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/Array.cpp">
+			<Option target="Ex1_Container"/>
+		</Unit>
+		<Unit filename="/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/Array.h">
+			<Option target="Ex1_Container"/>
+		</Unit>
+		<Unit filename="/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/Container.cpp">
+			<Option target="Ex1_Container"/>
+		</Unit>
+		<Unit filename="/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/Container.h">
+			<Option target="Ex1_Container"/>
+		</Unit>
+		<Unit filename="/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/Element.h">
+			<Option target="Ex1_Container"/>
+		</Unit>
+		<Unit filename="/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/List.h">
+			<Option target="Ex1_Container"/>
+		</Unit>
+		<Unit filename="/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/main.cpp">
+			<Option target="Ex1_Container"/>
+		</Unit>
+		<Unit filename="/Users/nicolashaenni/Education/HF-ICT/AAD/W3_W4/Ex1_Container/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
